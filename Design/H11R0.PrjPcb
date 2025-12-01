@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
 
 [Document4]
-DocumentPath=Schlib1.SchLib
+DocumentPath=..\..\..\Downloads\Project Outputs for Hexabitz Altium Library_mod\Hexabitz Altium Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ICGVEXXH
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for H01R0\Design Rule Check - H11R0.html
@@ -1101,6 +1101,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=Brooks Rogers
+ComponentDesignItemID0=CMP-031-00007-1
+ComponentSymbolReference0=100018754
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1114,6 +1120,30 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Case/Package
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=Max Operating Temperature
+ParameterUpdate5=1
+ParameterName6=Max Supply Voltage
+ParameterUpdate6=1
+ParameterName7=Min Operating Temperature
+ParameterUpdate7=1
+ParameterName8=Min Supply Voltage
+ParameterUpdate8=1
+ParameterName9=Mounting Technology
+ParameterUpdate9=1
+ParameterName10=Pins
+ParameterUpdate10=1
+ParameterName11=RoHS Compliant
+ParameterUpdate11=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
