@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TQGQSHTG
 
 [Document2]
-DocumentPath=H11R0_Frontend2.SchDoc
+DocumentPath=H11R0_Frontend1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
 
 [Document4]
-DocumentPath=..\..\..\Downloads\Schlib122222.SchLib
+DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,24 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LINHPDCT
-
-[Document5]
-DocumentPath=H11R0_Frontend 1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IEKVTBAZ
+DocumentUniqueId=ICGVEXXH
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for H01R0\Design Rule Check - H11R0.html
